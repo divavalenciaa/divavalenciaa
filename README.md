@@ -1,5 +1,5 @@
 # Hi, I'm Diva! 👋<br>
-<br> UI/UX & Figma Engineer<br><br>I specialize in creating user-centered designs and high-fidelity prototypes. I focus on building scalable design systems and turning complex ideas into functional, interactive digital experiences.<br><br>Expertise: *<br>*   **UI/UX Design:** Web & Mobile interfaces.<br>*   **Figma Engineering:** Auto Layout, Components, and Design Systems.<br>*   **Prototyping:** High-fidelity interactive flows.<br>
+<br> UI/UX & Figma Engineer<br><br>I specialize in creating user-centered designs and high-fidelity prototypes. I focus on building scalable design systems and turning complex ideas into functional, interactive digital experiences.<br><br>Expertise: <br>  **UI/UX Design:** Web & Mobile interfaces.<br>**Figma Engineering:** Auto Layout, Components, and Design Systems.<br> **Prototyping:** High-fidelity interactive flows.<br>
 
 
 ## 🌐 Socials:
