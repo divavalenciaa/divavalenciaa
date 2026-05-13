@@ -1,5 +1,15 @@
-# HI, I'm Diva
-### 🎨 UI/UX Designer & Figma Engineer<br>I am a passionate UI/UX Designer with a background in Informatics, allowing me to bridge the gap between creative design and technical feasibility. I specialize in crafting high-fidelity prototypes and building robust design systems that are both aesthetic and functional.<br><br>**User-Centered Mindset:** Transforming complex user problems into intuitive digital solutions.<br>**Figma Power-User:** Advanced expertise in Auto Layout, Variants, and scalable Design Systems.<br>**Technical Edge:** Understanding the frontend perspective to ensure seamless design-to-code handoffs.
+# HI, I'm Diva 👋
+
+### 🎨 UI/UX Designer & Figma Engineer
+
+I am a passionate UI/UX Designer with a background in Informatics, allowing me to bridge the gap between creative design and technical feasibility. I specialize in crafting high-fidelity prototypes and building robust design systems that are both aesthetic and functional.
+
+---
+
+#### 🚀 Focus & Mindset:
+*   **User-Centered Mindset:** Transforming complex user problems into intuitive digital solutions.
+*   **Figma Power-User:** Advanced expertise in Auto Layout, Variants, and scalable Design Systems.
+*   **Technical Edge:** Understanding the frontend perspective to ensure seamless design-to-code handoffs.
 
 
 ## 🌐 Socials:
